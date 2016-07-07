@@ -79,6 +79,7 @@ public class calculatorClass implements calculator {
 			System.out.println("Incorrect option");
 			
 		}
+		System.out.println("Done");
 	}
 
 }
